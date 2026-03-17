@@ -9,4 +9,4 @@ This repository is a **read-only showcase** of a few private projects.
 
 These are just a few of the private projects. There are also **other projects that are fully public**, which you can explore in this repository.  
 
-Please navigate to each project folder to view its dedicated README for full details.
+Please navigate to each project file to view its dedicated README for full details.
